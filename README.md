@@ -1,12 +1,10 @@
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geo-gabriel&repo=geogabriel)
-
 ## 👋 Hey there! I'm George Gabriel
 
 ### 😀 About Me
 
 🖥️ I like to learn and explore new technologies.\
 📚 I'm currently studying Mathematics at the University of Santa Catarina.\
-💡 I'm on track for learning more about Big Data, Data Engineering, Cloud Architecture and Spark.\
+🚀 I'm on track for learning more about Big Data, Data Engineering, Cloud Architecture and Spark.\
 🗺️ In my free time, I like to read some book, watch TV shows and play games.\
 
 

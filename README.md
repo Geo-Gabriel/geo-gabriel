@@ -22,14 +22,6 @@
 ![Spark](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![Spark](https://img.shields.io/badge/-VS%20code-000000?style=flat&logo=visual-studio-code)
 
-###  📜 My GitHub
-
-<p align="center">
-<a href="https://github.com/geo-gabriel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geo-gabriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geo-gabriel&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🌐 Connect with Me
 
